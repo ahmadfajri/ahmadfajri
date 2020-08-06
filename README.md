@@ -1,6 +1,6 @@
 ## Hi there, I'm Ahmad Fajri👋
 
-I am android developer. Find out more about me & feel free to connect with me here:
+I am Web Developer. Find out more about me & feel free to connect with me here:
 
 [![Instagram Badge](https://img.shields.io/badge/-ahmadfajrii-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ahmadfajrii/)](https://instagram.com/rizki_kurniaa)
 [![Gmail Badge](https://img.shields.io/badge/-ahmadfajri.fajri6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmadfajri.fajri6@gmail.com)](mailto:rizkikurniawan1797@gmail.com)
