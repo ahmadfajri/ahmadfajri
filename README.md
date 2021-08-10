@@ -2,8 +2,11 @@
 I am Web Developer. Find out more about me & feel free to connect with me here:
 
 [![Instagram Badge](https://img.shields.io/badge/-ahmadfajrii-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ahmadfajrii/)](https://instagram.com/ahmadfajrii)
+<a href="https://instagram.com/ahmadfajrii">
+  <img align="left" alt="Ahmad Fajri Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+</a>
 <a href="https://www.linkedin.com/in/marianozorrilla/" target=”_blank”>
-  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Ahmad Fajri LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
