@@ -1,5 +1,5 @@
 ## Hi there, I'm Ahmad Fajri👋
-I am Web Developer. Find out more about me & feel free to connect with me here:
+I am Web Developer and i am ready to freelance. Find out more about me & feel free to connect with me here:
 
 <a href="https://instagram.com/ahmadfajrii">
   <img align="left" alt="Ahmad Fajri Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
