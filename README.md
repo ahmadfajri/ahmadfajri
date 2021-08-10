@@ -2,10 +2,10 @@
 I am Web Developer. Find out more about me & feel free to connect with me here:
 
 <a href="https://instagram.com/ahmadfajrii">
-  <img align="left" alt="Ahmad Fajri Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+  <img align="left" alt="Ahmad Fajri Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
 <a href="https://www.linkedin.com/in/marianozorrilla/" target=”_blank”>
-  <img align="center" alt="Ahmad Fajri LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Ahmad Fajri LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
