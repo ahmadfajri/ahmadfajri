@@ -4,7 +4,7 @@ I am Web Developer and i am ready to freelance. Find out more about me & feel fr
 <a href="https://instagram.com/ahmadfajrii">
   <img align="left" alt="Ahmad Fajri Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
-<a href="https://www.linkedin.com/in/marianozorrilla/" target="_blank">
+<a href="https://www.linkedin.com/in/ahmad-fajri-1899a9118/" target="_blank">
   <img align="left" alt="Ahmad Fajri LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 <a href="https://wa.me/6289690655013" target="_blank">
