@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/ahmadfajrii/"><img src="https://img.shields.io/badge/-@ahmadfajrii-333333?style=flat-square&logo=website"/></a>
+  <a href="https://www.instagram.com/ahmadfajrii/"><img src="https://img.shields.io/badge/-@ahmadfajrii-333333?style=flat-square&logo=globe"/></a>
   <a href="https://akasrai.github.io/">https://ahmadfajri.com</a>
 </p>
 
