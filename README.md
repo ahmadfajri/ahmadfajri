@@ -14,7 +14,7 @@ I'm Ahmad Fajri, Web Developer.
   <br><br>
   
   ### Languages
-  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=CSharp&logoColor=7e10cc)
+  ![PHP](https://img.shields.io/badge/-C%23-333333?style=flat&logo=php&logoColor=7e10cc)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=7e10cc)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
