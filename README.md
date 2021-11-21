@@ -14,8 +14,16 @@ I'm Ahmad Fajri, Web Developer.
   <br><br>
   
   ### Languages
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  
+  ### Libraries and Frameworks
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras&logoColor=f73636)
+  ![Scikit-Learn](https://img.shields.io/badge/-sklearn-333333?style=flat&logo=scikitlearn)
+  ![Pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
   
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
