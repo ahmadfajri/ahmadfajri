@@ -15,8 +15,6 @@ I'm Ahmad Fajri, Web Developer.
   
   ### Languages
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=7e10cc)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
