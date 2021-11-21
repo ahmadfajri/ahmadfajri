@@ -4,11 +4,10 @@
 I'm Ahmad Fajri, Web Developer.
 </p>
 
-<p  align="center">
+<p align="center">
 <a href="https://akasrai.github.io/">https://ahmadfajri.com</a>
 </p>
 
-<br/>
 <h3 align="center">
   My Tech Stacks
   <br><br>
