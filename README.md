@@ -20,7 +20,7 @@ I'm Ahmad Fajri, Web Developer.
   ### Libraries and Frameworks
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras&logoColor=f73636)
+  ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react)
   ![Scikit-Learn](https://img.shields.io/badge/-sklearn-333333?style=flat&logo=scikitlearn)
   ![Pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)
   ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
