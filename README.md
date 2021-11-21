@@ -1,15 +1,25 @@
-## Hi there, I'm Ahmad Fajri👋
-I am Web Developer and i am ready to freelance. Find out more about me & feel free to connect with me here:
+<h3 align="center"> Hi there 👋</h3>
 
-<a href="https://instagram.com/ahmadfajrii">
-  <img align="left" alt="Ahmad Fajri Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ahmad-fajri-1899a9118/" target="_blank">
-  <img align="left" alt="Ahmad Fajri LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a>
-<a href="https://wa.me/6289690655013" target="_blank">
-  <img align="left" alt="Ahmad Fajri WhatsApp" width="30px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" />
-</a>
+<p align="center">
+I'm Akas, a self-motivated tech enthusiast and full stack web developer.
+</p>
+
+<h4 align="center">
+💻 full stack developer <a href="https://github.com/machnetinc">@Machnet</a> | 🌱 building <a href="https://github.com/akasrai/daily-quiz-mobile">Daily Quiz</a> | 💬 connect <a href="https://twitter.com/akasrai_">@akasrai_</a>
+</h4>
+<p  align="center">
+<a href="https://akasrai.github.io/">https://akasrai.github.io</a>
+</p>
+
+<br/>
+<h3 align="center">
+My Tech Stacks
+</h3>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
+</h3>
+
 
 <br><br>
 
