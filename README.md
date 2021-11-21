@@ -21,7 +21,7 @@ I'm Ahmad Fajri, Web Developer.
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![ReactJS](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
-  ![NextJS](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextjs)
+  ![NextJS](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![Pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)
   ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
   
