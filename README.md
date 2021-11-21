@@ -21,6 +21,6 @@ I'm Ahmad Fajri, Web Developer.
 ![NextJS](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 
-![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=ahmadfajri&show_icons=true&theme=vision-friendly-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadfajri&layout=compact&theme=vision-friendly-dark)](https://github.com/ahmadfajri/github-readme-stats) 
+![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=ahmadfajri&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadfajri&layout=compact&theme=tokyonight)](https://github.com/ahmadfajri/github-readme-stats) 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ahmadfajri)
