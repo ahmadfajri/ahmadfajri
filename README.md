@@ -13,11 +13,6 @@ I'm Ahmad Fajri, Web Developer.
 My Tech Stacks
 </h3>
 
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
-</h3>
-
-
 <br><br>
 
 <h3 align="left">Languages and Tools:</h3>
