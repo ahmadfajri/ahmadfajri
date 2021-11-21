@@ -1,10 +1,8 @@
 <h2 align="center"> Hi there, I'm Ahmad Fajri, Web Developer. 👋</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/douglas-drf"><img src="https://img.shields.io/badge/-Douglas%20Ferreira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/drfdouglas/"><img src="https://img.shields.io/badge/-@drfdouglas-333333?style=flat-square&logo=instagram"/></a>
-  <a href="https://discord.com/users/703745014953672744"><img src="https://img.shields.io/badge/-SneakyJaguar%239622-333333?style=flat-square&logo=discord"/></a>
-  <a href="https://steamcommunity.com/id/douglasdrf/"><img src="https://img.shields.io/badge/-DouglasDRF-333333?style=flat-square&logo=steam"/></a>
+  <a href="https://www.linkedin.com/in/ahmad-fajri-1899a9118/"><img src="https://img.shields.io/badge/-Ahmad%20Fajri-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/ahmadfajrii/"><img src="https://img.shields.io/badge/-@ahmadfajrii-333333?style=flat-square&logo=instagram"/></a>
 </p>
 
 <p align="center">
