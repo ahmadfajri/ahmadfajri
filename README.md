@@ -1,8 +1,4 @@
-<h3 align="center"> Hi there 👋</h3>
-
-<p align="center>
-  ## I'm Ahmad Fajri, Web Developer.
-</p>
+## Hi there, I'm Ahmad Fajri, Web Developer. 👋
 
 <p align="center">
 <a href="https://akasrai.github.io/">https://ahmadfajri.com</a>
