@@ -22,4 +22,3 @@
 ![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=ahmadfajri&show_icons=true&hide_border=true&theme=tokyonight) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadfajri&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/ahmadfajri/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadfajri&hide_border=true&theme=tokyonight" alt="ahmadfajri" />
-<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=ahmadfajri&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="ahmadfajri" /> </p>
